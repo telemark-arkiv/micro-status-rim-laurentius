@@ -2,6 +2,8 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # micro-status-rim-laurentius
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/micro-status-rim-laurentius.svg)](https://greenkeeper.io/)
 Stats for laurentius bot
 
 ## API
