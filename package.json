@@ -1,7 +1,7 @@
 {
   "name": "micro-status-rim-laurentius",
   "description": "Shows status for rim-laurentius",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "license": "MIT",
   "private": true,
   "author": {
@@ -51,7 +51,7 @@
     "coveralls": "2.13.1",
     "nsp": "2.6.3",
     "standard": "10.0.2",
-    "tap": "10.7.0"
+    "tap": "10.5.2"
   },
   "dependencies": {
     "got": "7.0.0",
