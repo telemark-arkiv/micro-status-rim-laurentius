@@ -1,7 +1,7 @@
 {
   "name": "micro-status-rim-laurentius",
   "description": "Shows status for rim-laurentius",
-  "version": "1.0.25",
+  "version": "1.1.0",
   "license": "MIT",
   "private": true,
   "author": {
@@ -11,7 +11,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=7.4.0"
+    "node": ">=8.9.3"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -39,6 +39,7 @@
   "bugs": {
     "url": "https://github.com/telemark/micro-status-rim-laurentius/issues"
   },
+  "homepage": "https://github.com/telemark/micro-status-rim-laurentius#readme",
   "now": {
     "aliases": [
       "laurentius.rim.status.t-fk.win"
@@ -55,7 +56,7 @@
   },
   "dependencies": {
     "got": "8.0.1",
-    "marked": "0.3.9",
+    "markdown-it": "8.4.0",
     "micro": "9.0.2"
   }
 }

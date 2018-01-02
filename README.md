@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/telemark/micro-status-rim-laurentius.svg?branch=master)](https://travis-ci.org/telemark/micro-status-rim-laurentius)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/micro-status-rim-laurentius.svg)](https://greenkeeper.io/)
 
 # micro-status-rim-laurentius
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/micro-status-rim-laurentius.svg)](https://greenkeeper.io/)
 Stats for laurentius bot
 
 ## API
